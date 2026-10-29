@@ -1,2 +1,5 @@
 #!/bin/bash
-chown vincent:staff folder1 folder2 file1 file2
+chown vincent:staff folder1
+chown vincent:staff folder2
+chown vincent:staff file1
+chown vincent:staff file2
